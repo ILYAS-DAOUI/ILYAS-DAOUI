@@ -1,31 +1,28 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Development+Student;Future+Full+Stack+Developer;Always+Learning+New+Technologies"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Development+Student;Future+Full+Stack+Developer;Always+Learning+New+Technologies"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:3B82F6&height=220&section=header&text=Ilyas%20Daoui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student&descAlignY=60"/>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=220&section=header&text=Ilyas%20Daoui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=60"/>
-</p>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
----
+## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-# 👨‍💻 About Me
-
-- 🎓 Software Development Student from Morocco 🇲🇦
+- 🎓 Software Development Student from **Morocco 🇲🇦**
 - 📚 Completed my first year and preparing for the second year.
 - 🌱 Currently learning **JavaScript, PHP, Python, MySQL & Laravel**
-- 💻 Passionate about Web Development.
+- 💻 Passionate about **Web Development**.
 - 🚀 I enjoy building real-world projects.
-- 🎯 Goal: Become a Professional Full Stack Developer.
+- 🎯 Goal: Become a **Full Stack Developer**.
 
-<br>
+---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -73,10 +70,34 @@
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ILYAS-DAOUI&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYAS-DAOUI&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ILYAS-DAOUI&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ILYAS-DAOUI&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -107,31 +128,43 @@ Git/GitHub   ███████░░░ 70%
 
 ---
 
-# 🚀 Goals 2026
+# 🚀 2026 Goals
 
-- ✅ Master JavaScript
-- ✅ Learn Laravel
-- ✅ Build Full Stack Projects
-- ✅ Improve Python Skills
+- ✅ Improve JavaScript
+- ✅ Master Laravel
+- ✅ Build Full Stack Applications
+- ✅ Complete Python Projects
 - ✅ Get My First Internship
 - ✅ Contribute to Open Source
 
 ---
 
-# 📊 Profile Views
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ILYAS-DAOUI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ILYAS-DAOUI&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
 </p>
 
 ---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:3B82F6&height=120&section=footer"/>
+
+</p>
 
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile ⭐
 
 </h3>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:3B82F6&height=120&section=footer"/>
-</p>
