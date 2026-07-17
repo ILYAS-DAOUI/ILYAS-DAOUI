@@ -5,29 +5,27 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Software+Development+Student;Future+Full+Stack+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Software+Development+Student;Learning+Full+Stack+Web+Development;Always+Learning+Something+New"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-🎓 Software Development Student from Morocco 🇲🇦
+- 🎓 Software Development Student from Morocco 🇲🇦
+- 📚 Completed my first year and preparing for the second year.
+- 🌱 Currently learning **JavaScript, PHP, Python, MySQL & Laravel**
+- 💻 Passionate about Web Development.
+- 🚀 I love building projects and improving my programming skills.
+- 🎯 Goal: Become a Professional Full Stack Developer.
 
-- 🌱 Currently learning **JavaScript, PHP, MySQL & Laravel**
-- 💻 Passionate about Web Development
-- 🚀 I enjoy building real-world projects
-- 📚 Starting my second year in Software Development
-- 🎯 Goal: Become a Full Stack Developer
-
----
+<br>
 
 ## 🌐 Connect with Me
 
 <p align="left">
-
 <a href="https://github.com/ILYAS-DAOUI">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -35,7 +33,6 @@
 <a href="https://www.linkedin.com/in/ilyas-daoui-58b10b385/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 </p>
 
 ---
@@ -44,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,bootstrap,figma,linux"/>
 
 </p>
 
@@ -54,72 +51,71 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ILYAS-DAOUI&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ILYAS-DAOUI&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ILYAS-DAOUI&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYAS-DAOUI&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYAS-DAOUI&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Learning Roadmap
 
-<p align="center">
+✅ HTML & CSS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ILYAS-DAOUI&theme=tokyonight&row=1&column=6"/>
+✅ JavaScript
 
-</p>
+✅ PHP
+
+✅ Python
+
+🟡 Laravel
+
+🟡 React
+
+🟡 REST APIs
+
+🟡 Docker
+
+---
+
+# 🚀 Current Goals
+
+- 📖 Improve JavaScript.
+- 🐘 Learn Laravel.
+- 🐍 Build Python Projects.
+- 🌐 Create Full Stack Applications.
+- 💼 Get My First Internship.
+
+---
+
+# 📚 Currently Learning
+
+- JavaScript ES6+
+- PHP
+- Python
+- MySQL
+- Git & GitHub
+- Laravel
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ILYAS-DAOUI&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Current Goals
-
-✔ Improve JavaScript
-
-✔ Learn Laravel
-
-✔ Build Full Stack Projects
-
-✔ Contribute to Open Source
-
-✔ Get My First Internship
-
----
-
-# 🛠 Featured Projects
-
-🚧 Coming Soon...
-
-- Portfolio Website
-- E-commerce Website
-- Student Management System
-- Weather App
-- To-Do App
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=ILYAS-DAOUI&color=blue)
-
 </p>
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=ILYAS-DAOUI&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
