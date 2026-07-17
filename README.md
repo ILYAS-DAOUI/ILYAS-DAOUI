@@ -1,87 +1,96 @@
-```md
-<h1 align="center">Hi 👋, I'm Ilyas Daoui</h1>
-<h3 align="center">Software Development Student | Future Full Stack Developer 🚀</h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ilyas-daoui-58b10b385/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## Hey 👋, I'm Ilyas Daoui!
 
----
+<a href="https://www.linkedin.com/in/ilyas-daoui-58b10b385/?skipRedirect=true">
+<img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
+</a>
 
-## 👨‍💻 About Me
+<br/>
 
-🎓 I'm **Ilyas Daoui**, a Software Development student from Morocco.
+I am a **Software Development student** from **Morocco 🇲🇦**. I have completed my **first year** in Software Development and I'm preparing to start my **second year**. I enjoy learning new technologies and building web applications to improve my programming skills.
 
-- 🎓 Completed my **1st year** in Software Development.
-- 📚 Starting my **2nd year** and improving my programming skills.
-- 🌱 Currently learning **JavaScript, PHP, MySQL, Git, and Laravel**.
-- 💻 Passionate about **Web Development**.
-- 🚀 Building projects to gain real-world experience.
-- 🎯 My goal is to become a **Full Stack Web Developer**.
+<br/>
+<br/>
 
----
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-## 🛠️ Tech Stack
+### 🧐 More About Me:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,mysql,git,github,vscode,figma,bootstrap" />
-</p>
+- 🎓 &nbsp; I completed my first year in Software Development.
+- 📚 &nbsp; I’m currently preparing for my second year.
+- 🌱 &nbsp; I’m learning **JavaScript**, **PHP**, **MySQL**, and **Laravel**.
+- 💻 &nbsp; Interested in **Full Stack Web Development**.
+- 👨🏻‍💻 &nbsp; I enjoy building projects and improving my coding skills.
+- 🚀 &nbsp; My goal is to become a professional Full Stack Developer.
+- 💬 &nbsp; Ask me about HTML, CSS, JavaScript, PHP or Git.
+- 📫 &nbsp; Reach me on **LinkedIn**:
+  https://www.linkedin.com/in/ilyas-daoui-58b10b385/?skipRedirect=true
 
----
+<br>
 
-## 📂 My Projects
+### 🔨 Languages and Tools:
 
-🚧 I'm currently building new projects.
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img align="left" src="https://skillicons.dev/icons?i=html" height="42px"/>
+</a>
 
-Some projects that will be available soon:
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img align="left" src="https://skillicons.dev/icons?i=css" height="42px"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img align="left" src="https://skillicons.dev/icons?i=javascript" height="42px"/>
+</a>
+
+<a href="https://www.php.net/">
+<img align="left" src="https://skillicons.dev/icons?i=php" height="42px"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img align="left" src="https://skillicons.dev/icons?i=mysql" height="42px"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img align="left" src="https://skillicons.dev/icons?i=git" height="42px"/>
+</a>
+
+<a href="https://github.com/">
+<img align="left" src="https://skillicons.dev/icons?i=github" height="42px"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img align="left" src="https://skillicons.dev/icons?i=vscode" height="42px"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" height="42px"/>
+</a>
+
+<br>
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+</a>
+
+<br>
+
+### 🛠️ My Projects
+
+🚧 Coming Soon...
 
 - 🌐 Portfolio Website
 - 🛒 E-Commerce Website
 - 📚 Library Management System
-- ✅ To-Do App
+- ✅ To-Do List App
+- 💻 More projects will be added soon!
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master JavaScript
-- ✅ Learn Laravel
-- ✅ Build Full Stack Applications
-- ✅ Contribute to Open Source
-- ✅ Get my first Internship
-
----
-
-## 📫 Contact Me
-
-<p align="left">
-
-💼 LinkedIn:
-https://www.linkedin.com/in/ilyas-daoui-58b10b385/?skipRedirect=true
-
-💻 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
-
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
+⭐ Thanks for visiting my profile!
 ```
