@@ -33,6 +33,9 @@
 <a href="https://www.linkedin.com/in/ilyas-daoui-58b10b385/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="https://www.instagram.com/ilyas.daoui_/" target="_blank"> 
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/> </a>
 </p>
 
 ---
