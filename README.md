@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilyas Daoui</h1>
 
-<h3 align="center">
-💻 Software Development Student | Future Full Stack Developer 🚀
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Development+Student;Future+Full+Stack+Developer;Always+Learning+New+Technologies"/>
